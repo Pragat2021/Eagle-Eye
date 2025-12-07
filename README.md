@@ -1,6 +1,6 @@
 # Eagle Eye 🔥
 
-![Eagle Eye Logo](https://via.placeholder.com/600x200.png?text=Eagle+Eye+-+Enhanced+Surveillance)  
+
 
 **Eagle Eye** is a cutting-edge IoT-based surveillance and monitoring system designed to ensure real-time tracking of vital parameters, enhancing safety and situational awareness. This project integrates IoT hardware with blockchain for secure data storage and accessibility.
 
@@ -118,13 +118,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📷 Screenshots
 
-### Dashboard Overview
-![Dashboard Screenshot](https://via.placeholder.com/800x400.png?text=Dashboard+Visualization)
+
 
 ### Hardware Setup
-![Hardware Setup Screenshot](https://via.placeholder.com/800x400.png?text=Hardware+Components+Integration)
+![Hardware Setup Screenshot](https://drive.google.com/file/d/1aZfEucFZRZnkVpbmIJHEirx1j4ifYTJ4/view?usp=sharing)
 
 ---
 
